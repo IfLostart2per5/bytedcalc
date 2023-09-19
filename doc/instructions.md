@@ -39,3 +39,9 @@ The current instructions that the machine understands.
   - (special) 32: serves as a recovery-point from errors.
 
 * "stack focus" means the indexes that points to a operand, and other operand, like this, you can choose a specific point of the stack to apply operations.
+
+References:
+
+1. [Structure of the interpreter](./README.md)
+
+2. [Installing](./installing.md)
