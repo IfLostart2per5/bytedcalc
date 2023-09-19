@@ -37,3 +37,5 @@ The current instructions that the machine understands.
   - (compound) 16: deletes a value from the memory with the given index, verifying ... the same thing of 14 and 15 instructions, in the format "16 index".
 
   - (special) 32: serves as a recovery-point from errors.
+
+* "stack focus" means the indexes that points to a operand, and other operand, like this, you can choose a specific point of the stack to apply operations.
