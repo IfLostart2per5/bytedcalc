@@ -1,4 +1,4 @@
-# Structure
+# Structure of the interpreter
 The program is organized based on two arrays:
   - the pre-included values, that is more simple to use
   - the instructions
