@@ -41,6 +41,6 @@ int main() {
 You decides the way that you wanna test, compile as a python extension, or uses the C++ way directly ;)
 
 References:
-1. [Working of the interpreter](./README.md)
+1. [Structure of the interpreter](./README.md)
 2. [Instructions](./instructions.md)
 
