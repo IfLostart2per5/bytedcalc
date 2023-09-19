@@ -7,7 +7,7 @@ The program is organized based on two arrays:
  
  The instructions are codes that's executed by the machine.
 
- under the hood, it uses a stack to store the values and results, ad a (experimental and basic) memory system.
+ under the hood, it uses a stack to store the values and results, and a (experimental and basic) memory system.
 
 When started, it traverse the instructions, and using a switch-case statement to determine the action to do.
 
