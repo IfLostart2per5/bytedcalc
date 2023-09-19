@@ -21,7 +21,7 @@ When started, it traverse the instructions, and using a switch-case statement to
 
 Its the basic functionality of the simple machine.
 
-Other references:
+Other references:  
 [Installing](./installing.md)  
 [Instructions](./instructions.md)
 
