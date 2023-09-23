@@ -9,7 +9,7 @@ The program is organized based on two arrays:
 
  under the hood, it uses a stack to store the values and results, and a (experimental and basic) memory system.
 
-When started, it traverse the instructions, and using a switch-case statement to determine the action to do.
+When started, it traverse the instructions, using a switch-case statement to determine the action to do.
 
 1. When looping, first it checks if a error ocurred, if yes, it starts to ignore all of the next instructions until find a secure recovery point, the 32 instruction, if it found it, it stops and follows normally to the next instruction after 32.
 
